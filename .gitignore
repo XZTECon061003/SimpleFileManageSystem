@@ -1,0 +1,45 @@
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+cmake-build-debug/
+cmake-build-debug-mingw/
+bin/
+
+# PHP
+vendor/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.swp
+*~
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Unnecessary files
+CMakeLists_old.txt
+*.exe
